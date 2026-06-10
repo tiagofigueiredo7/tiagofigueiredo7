@@ -6,12 +6,11 @@
 </p>
 
 <p align="center">
-  Contact me:
-  <a href="mailto:tiago0712.figueiredo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align: middle; margin-left:6px;" />
+  <b>Connect with me:</b></br>
+    <a href="mailto:tiago0712.figueiredo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
   </a>
 </p>
-
 
 <h2 align="center">University Projects</h2>
 
