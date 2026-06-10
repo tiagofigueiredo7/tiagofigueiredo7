@@ -7,11 +7,9 @@
 
 <p align="center">
   Contact me:
-  <span style="display:inline-flex; align-items:center; margin-left:8px;">
-    <a href="mailto:tiago0712.figueiredo@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
-    </a>
-  </span>
+  <a href="mailto:tiago0712.figueiredo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" style="vertical-align: middle; margin-left:6px;" />
+  </a>
 </p>
 
 
