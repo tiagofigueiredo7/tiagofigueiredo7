@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <b>Connect with me:</b></br>
-    <a href="mailto:tiago0712.figueiredo@gmail.com">
+  Connect with me:</br>
+  <a href="mailto:tiago0712.figueiredo@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
   </a>
 </p>
