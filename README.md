@@ -6,10 +6,12 @@
 </p>
 
 <p align="center">
-  Contact me: &nbsp;
-  <a href="mailto:tiago0712.figueiredo@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="30" height="30" style="vertical-align: middle;"/>
-  </a>
+  Contact me:
+  <span style="display:inline-flex; align-items:center; margin-left:8px;">
+    <a href="mailto:tiago0712.figueiredo@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
+    </a>
+  </span>
 </p>
 
 
@@ -53,9 +55,7 @@
 
 </details>
 
----
-
-<h3 align="center">Languages & Tools</h3>
+<h2 align="center">Languages & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,c,haskell,js,html,css,vue,pug&perline=9" />
