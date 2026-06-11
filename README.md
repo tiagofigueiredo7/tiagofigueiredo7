@@ -2,7 +2,7 @@
 
 <p align="center">
   Software Engineer graduated from the University of Minho.<br/>
-  🎓 Bachelor's Degree in Software Engineering
+  🎓 Bachelor's Degree in Informatics Engineering
 </p>
 
 <p align="center">
