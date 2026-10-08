@@ -2,7 +2,10 @@
 
 <p align="center">
   Software Engineer graduated from the University of Minho.<br/>
-  🎓 Bachelor's Degree in Software Engineering
+  🎓 Bachelor's Degree in Informatics Engineering<br/>
+  🎓 Master's student in Informatics Engineering, specializing in:<br/>
+  • Next-Generation Networks<br/>
+  • Application Engineering
 </p>
 
 <p align="center">
@@ -59,5 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,linux,git,docker,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,linux,git,docker,postman,vscode&perline=9" />
 </p>
